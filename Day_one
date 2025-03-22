@@ -1,0 +1,13 @@
+Learned what Docker is and its role in containerization.
+
+Understood Docker Image (blueprint) vs Docker Container (running instance).
+
+Explored key commands:
+
+docker run — Run a container.
+
+docker ps — List running containers.
+
+Learned the difference between Docker and Virtual Machines (VMs).
+
+Noted Docker's benefits: portability, speed, and resource efficiency.
